@@ -1,0 +1,26 @@
+命令行生成补丁文件(https://www.jianshu.com/p/f15b126d7234)
+一.引入依赖
+  implementation 'com.alipay.euler:andfix:0.5.0@aar'
+
+二.创建AndFixPatchManager来实现对PatchManager的封装.(init、loadPatch、addPatch)
+
+三.生成差异apk文件
+  1.打包一个old.apk
+  2.打包一个new.apk
+  3.copy到命令行工具中
+
+四、命令行生成补丁文件
+  -f 修改BUG的.apk文件
+  -t 存在BUG的.apk文件
+  -o 补丁文件的输出文件夹路径(没有会自动创建)
+  -k 签名文件的路径
+  -p 签名文件密码
+  -a 签名文件的别名
+  -e 签名文件别名的密码
+
+   .\apkpatch.bat -f new.apk -t old.apk -o output -k andfix.jks -p 123456 -a andfix -e 123456    生成补丁文件
+
+  adb push old.apk /storage/emulated/0/Android/data/com.hengda.andfix/cache/apatch/old.apk                 push apk to phone
+  adb push andfix.apatch /storage/emulated/0/Android/data/com.hengda.andfix/cache/apatch/andfix.apatch     push 补丁 to phone
+
+  andfix.apatch文件就是我们的补丁文件,安装old.apk并将这个补丁文件通过命令或是拷贝我们之前创建的指定文件下并重命名成我们代码中写的andfix.apatch,点击按钮就会完成修复.

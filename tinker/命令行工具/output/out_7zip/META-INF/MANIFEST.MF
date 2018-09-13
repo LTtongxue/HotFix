@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_181 (Oracle Corporation)
+
+Name: res/layout/activity_tinker.xml
+SHA1-Digest: a3MmXpndjqzGVNAkmTHEQfEnl+s=
+
+Name: assets/package_meta.txt
+SHA1-Digest: /fAyFzCfRAhIRu9LjS+S/Ucv1Ho=
+
+Name: assets/only_use_to_test_tinker_resource.txt
+SHA1-Digest: 0hDOMk1uWmkEPB3FP6r29AqdwR4=
+
+Name: assets/res_meta.txt
+SHA1-Digest: bb6BBsArxj2xoXqNZW+CyrxQqsY=
+

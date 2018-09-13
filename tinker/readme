@@ -1,0 +1,31 @@
+命令行生成补丁文件(https://www.jianshu.com/p/d649fc014919)
+一.引入依赖
+  implementation("com.tencent.tinker:tinker-android-lib:${TINKER_VERSION}") { changing = true }
+  annotationProcessor("com.tencent.tinker:tinker-android-anno:${TINKER_VERSION}") { changing = true }
+  compileOnly("com.tencent.tinker:tinker-android-anno:${TINKER_VERSION}") { changing = true }
+
+二.创建ApplicationLike代理类
+  1.创建TinkerManager来实现对Tinker的管理.(install、onReceiveUpgradePatch)
+  2.使用Tinker为我们提供的ApplicationLike.完成这个后我们需要同步,然后就会生成MyTinkerApplication这个类(同步后没有出现这个类可以Make Project项目).
+
+三.在Manifest.xml中配置
+  1.加上必要的权限.
+  2.设置我们的MyTinkerApplication.
+  3.配置TINKER_ID这个属性,value值的数字部分一般为我们的versionCode
+
+四.生成差异apk文件
+  1.打包一个old.apk
+  2.打包一个new.apk
+  3.copy到命令行工具中
+
+五、命令行生成补丁文件
+  java -jar tinker-patch-cli-1.9.2.jar -old old.apk -new new.apk -config tinker_config.xml -out output    生成补丁文件
+
+  adb push old.apk /storage/emulated/0/Android/data/com.hengda.tinker/cache/tpatch/old.apk                 push apk to phone
+  adb push patch_signed.apk /storage/emulated/0/Android/data/com.hengda.tinker/cache/tpatch/tinker.apk     push 补丁 to phone
+
+  patch_signed.apk文件就是我们的补丁文件,安装old.apk并将这个补丁文件通过命令或是拷贝我们之前创建的指定文件下并重命名成我们代码中写的tinker.apk,点击按钮就会完成修复.
+
+六.注意
+  注意,在点击后会杀到当前进程,需要重新进入后才能看到效果.
+  官方建议我们去监听手机的广播,比如锁屏的广播,点击HOME键等重新启动.

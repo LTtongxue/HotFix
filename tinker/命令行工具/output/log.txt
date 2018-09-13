@@ -1,0 +1,51 @@
+-----------------------Tinker patch begin-----------------------
+configuration: 
+oldApk:E:\HotFix\tinker\命令行工具\old.apk
+newApk:E:\HotFix\tinker\命令行工具\new.apk
+outputFolder:E:\HotFix\tinker\命令行工具\output
+isIgnoreWarning:false
+isProtectedApp:false
+7-ZipPath:7za
+useSignAPk:true
+package meta fields: 
+filed name:patchMessage, filed value:classes.dex
+filed name:platform, filed value:all
+dex configs: 
+dexMode: jar
+dexPattern:classes.*\.dex
+dexPattern:assets/secondary-dex-.\.jar
+dex loader:com.hengda.tinker.MyTinkerApplication
+dex loader:com.tencent.tinker.loader.*
+lib configs: 
+libPattern:lib/.*/.*\.so
+resource configs: 
+resPattern:res/.*
+resPattern:resources\.arsc
+resPattern:AndroidManifest\.xml
+resPattern:assets/.*
+resIgnore change:assets/sample_meta\.txt
+largeModSize:100kb
+useApplyResource:false
+
+Analyze old and new apk files:
+old apk: old.apk, size=1430637, md5=9f386c3545ef358b960e8dfeaa5993a9
+new apk: new.apk, size=1430681, md5=066d641e33b3a9349c883a5e3c9d570f
+
+Manifest has no changes, skip rest decode works.
+UnZipping apk to E:\HotFix\tinker\命令行工具\output\old
+UnZipping apk to E:\HotFix\tinker\命令行工具\output\new
+Check for loader classes in dex: classes.dex
+Found modify resource: res/layout/activity_tinker.xml
+No dexes were changed, nothing needs to be done next.
+Add Test resource file: assets/only_use_to_test_tinker_resource.txt
+Final normal zip resource: resources_out.zip, size=499683, md5=53a34020c3fe8aa28d13a457a85900c1
+Generate unsigned apk: patch_unsigned.apk
+Signing apk: patch_signed.apk
+Signing key algorithm is SHA1withRSA
+Try use 7za to compress the patch file: patch_signed_7zip.apk, will cost much more time
+Current 7za path:7za
+7a patch file failed, you should set the zipArtifact, or set the path directly
+Result: final signed patch result: E:\HotFix\tinker\命令行工具\output\patch_signed.apk, size=3323
+Tinker patch done, total time cost: 3.301000s
+Tinker patch done, you can go to file to find the output E:\HotFix\tinker\命令行工具\output
+-----------------------Tinker patch end-------------------------
