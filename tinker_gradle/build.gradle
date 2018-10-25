@@ -10,7 +10,7 @@ def bakPath = file("${buildDir}/bakApk/")//指定基准文件(oldApk)存放位�
 
 android {
     compileSdkVersion 28
-    buildToolsVersion '28.0.2'
+    buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId "com.hengda.tinker.gradle"
         minSdkVersion 19
@@ -98,10 +98,10 @@ dependencies {
 
 ext {
     tinkerEnabled = true  //是否启用Tinker的标志位
-    tinkerOldApkPath = "${bakPath}/tinker_gradle-release-0925-15-10-29.apk"//oldApk文件路径
+    tinkerOldApkPath = "${bakPath}/tinker_gradle-release-1008-16-31-34.apk"//oldApk文件路径
     tinkerID = "1.0"//与版本号一致
-    tinkerApplyMappingPath = "${bakPath}/tinker_gradle-release-0925-15-10-29-mapping.txt" //混淆文件路径
-    tinkerApplyResourcePath = "${bakPath}/tinker_gradle-release-0925-15-10-29-R.txt" //资源路径
+    tinkerApplyMappingPath = "${bakPath}/tinker_gradle-release-1008-16-31-34-mapping.txt" //混淆文件路径
+    tinkerApplyResourcePath = "${bakPath}/tinker_gradle-release-1008-16-31-34-R.txt" //资源路径
 //    tinkerBuildFlavorDirectory = "${bakPath}/" //多渠道路径
 }
 
