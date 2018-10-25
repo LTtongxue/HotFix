@@ -10,7 +10,7 @@ def bakPath = file("${buildDir}/bakApk/")//指定基准文件(oldApk)存放位�
 
 android {
     compileSdkVersion 28
-    buildToolsVersion '27.0.3'
+    buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId "com.hengda.tinker.gradle"
         minSdkVersion 19
@@ -80,12 +80,11 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'com.android.support:appcompat-v7:28.0.0-rc02'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    //noinspection GradleCompatible
-    implementation 'com.android.support:appcompat-v7:25.4.0'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
     //tinker的核心库 compile编译并打包
     implementation("com.tencent.tinker:tinker-android-lib:${TINKER_VERSION}") { changing = true }
     //是否将依赖关系标记为正在改变
@@ -99,10 +98,10 @@ dependencies {
 
 ext {
     tinkerEnabled = true  //是否启用Tinker的标志位
-    tinkerOldApkPath = "${bakPath}/tinker_gradle-release-0913-18-17-58.apk"//oldApk文件路径
+    tinkerOldApkPath = "${bakPath}/tinker_gradle-release-1008-16-31-34.apk"//oldApk文件路径
     tinkerID = "1.0"//与版本号一致
-    tinkerApplyMappingPath = "${bakPath}/tinker_gradle-release-0913-18-17-58-mapping.txt" //混淆文件路径
-    tinkerApplyResourcePath = "${bakPath}/tinker_gradle-release-0913-18-17-58-R.txt" //资源路径
+    tinkerApplyMappingPath = "${bakPath}/tinker_gradle-release-1008-16-31-34-mapping.txt" //混淆文件路径
+    tinkerApplyResourcePath = "${bakPath}/tinker_gradle-release-1008-16-31-34-R.txt" //资源路径
 //    tinkerBuildFlavorDirectory = "${bakPath}/" //多渠道路径
 }
 
