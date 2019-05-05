@@ -1,0 +1,124 @@
+{
+    "map_data": {
+        "gate_1": {
+            "size": 3,
+            "bomb": 2
+        },
+        "gate_2": {
+            "size": 3,
+            "bomb": 3
+        },
+        "gate_3": {
+            "size": 4,
+            "bomb": 4
+        },
+        "gate_4": {
+            "size": 4,
+            "bomb": 5
+        },
+        "gate_5": {
+            "size": 4,
+            "bomb": 6
+        },
+        "gate_6": {
+            "size": 5,
+            "bomb": 5
+        },
+        "gate_7": {
+            "size": 5,
+            "bomb": 6
+        },
+        "gate_8": {
+            "size": 5,
+            "bomb": 7
+        },
+        "gate_9": {
+            "size": 5,
+            "bomb": 8
+        },
+        "gate_10": {
+            "size": 5,
+            "bomb": 9
+        },
+        "gate_11": {
+            "size": 5,
+            "bomb": 6
+        },
+        "gate_12": {
+            "size": 6,
+            "bomb": 7
+        },
+        "gate_13": {
+            "size": 6,
+            "bomb": 8
+        },
+        "gate_14": {
+            "size": 6,
+            "bomb": 9
+        },
+        "gate_15": {
+            "size": 6,
+            "bomb": 10
+        },
+        "gate_16": {
+            "size": 6,
+            "bomb": 11
+        },
+        "gate_17": {
+            "size": 7,
+            "bomb": 6
+        },
+        "gate_18": {
+            "size": 7,
+            "bomb": 7
+        },
+        "gate_19": {
+            "size": 7,
+            "bomb": 8
+        },
+        "gate_20": {
+            "size": 7,
+            "bomb": 9
+        },
+        "gate_21": {
+            "size": 7,
+            "bomb": 10
+        },
+        "gate_22": {
+            "size": 7,
+            "bomb": 11
+        },
+        "gate_23": {
+            "size": 7,
+            "bomb": 12
+        },
+        "gate_24": {
+            "size": 8,
+            "bomb": 7
+        },
+        "gate_25": {
+            "size": 8,
+            "bomb": 8
+        },
+        "gate_26": {
+            "size": 8,
+            "bomb": 9
+        },
+        "gate_27": {
+            "size": 8,
+            "bomb": 9
+        },
+        "gate_28": {
+            "size": 8,
+            "bomb": 11
+        },
+        "gate_29": {
+            "size": 8,
+            "bomb": 12
+        },
+        "gate_30": {
+            "size": 8,
+            "bomb": 13
+        }
+    }
+}

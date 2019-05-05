@@ -1,0 +1,274 @@
+{
+    "stage_data": [
+        {
+            "stage_id": 1,
+            "stage_class": 1,
+            "questions_index": "1,2,2,3,3,3,4,4,4,5",
+            "stage_time": 30,
+            "question_number": 10,
+            "stage_aim": 8,
+            "stage_color": 2
+        },
+        {
+            "stage_id": 2,
+            "stage_class": 1,
+            "questions_index": "2,3,3,3,4,4,4,5,5,5,6,6",
+            "stage_time": 30,
+            "question_number": 12,
+            "stage_aim": 10,
+            "stage_color": 3
+        },
+        {
+            "stage_id": 3,
+            "stage_class": 1,
+            "questions_index": "4,4,4,5,5,5,5,6,6,6,6,7,7,7",
+            "stage_time": 30,
+            "question_number": 14,
+            "stage_aim": 12,
+            "stage_color": 3
+        },
+        {
+            "stage_id": 4,
+            "stage_class": 1,
+            "questions_index": "5,5,5,5,5,6,6,6,6,6,7,7,7,7",
+            "stage_time": 30,
+            "question_number": 14,
+            "stage_aim": 12,
+            "stage_color": 3
+        },
+        {
+            "stage_id": 5,
+            "stage_class": 1,
+            "questions_index": "6,6,6,6,6,6,6,6,7,7,7,7,7,7,8,8",
+            "stage_time": 30,
+            "question_number": 16,
+            "stage_aim": 14,
+            "stage_color": 4
+        },
+        {
+            "stage_id": 6,
+            "stage_class": 1,
+            "questions_index": "6,6,6,6,7,7,7,7,7,7,8,8,8,8,8,8",
+            "stage_time": 30,
+            "question_number": 16,
+            "stage_aim": 14,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 7,
+            "stage_class": 1,
+            "questions_index": "7,7,7,7,7,7,8,8,8,8,8,8,8,8,9,9,9,9",
+            "stage_time": 30,
+            "question_number": 18,
+            "stage_aim": 16,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 8,
+            "stage_class": 1,
+            "questions_index": "7,7,8,8,8,8,8,8,8,8,8,9,9,9,9,9,9,9",
+            "stage_time": 30,
+            "question_number": 18,
+            "stage_aim": 16,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 9,
+            "stage_class": 1,
+            "questions_index": "8,8,8,8,8,8,8,9,9,9,9,9,9,9,9,9,9,9",
+            "stage_time": 30,
+            "question_number": 18,
+            "stage_aim": 16,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 10,
+            "stage_class": 1,
+            "questions_index": "9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9",
+            "stage_time": 30,
+            "question_number": 20,
+            "stage_aim": 18,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 11,
+            "stage_class": 2,
+            "questions_index": "1,1,2,2,2,3,3,3,3,3,4,4",
+            "stage_time": 35,
+            "question_number": 12,
+            "stage_aim": 10,
+            "stage_color": 2
+        },
+        {
+            "stage_id": 12,
+            "stage_class": 2,
+            "questions_index": "2,2,2,3,3,3,3,4,4,4,4,4,4,4",
+            "stage_time": 35,
+            "question_number": 14,
+            "stage_aim": 12,
+            "stage_color": 3
+        },
+        {
+            "stage_id": 13,
+            "stage_class": 2,
+            "questions_index": "3,3,3,3,3,4,4,4,4,4,5,5,5,5",
+            "stage_time": 35,
+            "question_number": 14,
+            "stage_aim": 12,
+            "stage_color": 3
+        },
+        {
+            "stage_id": 14,
+            "stage_class": 2,
+            "questions_index": "3,3,3,4,4,4,4,4,4,4,5,5,5,5,5,5",
+            "stage_time": 35,
+            "question_number": 16,
+            "stage_aim": 14,
+            "stage_color": 3
+        },
+        {
+            "stage_id": 15,
+            "stage_class": 2,
+            "questions_index": "4,4,4,4,4,5,5,5,5,5,5,6,6,6,6,6",
+            "stage_time": 35,
+            "question_number": 16,
+            "stage_aim": 14,
+            "stage_color": 4
+        },
+        {
+            "stage_id": 16,
+            "stage_class": 2,
+            "questions_index": "4,4,4,5,5,5,5,5,5,5,6,6,6,6,6,6,7,7",
+            "stage_time": 35,
+            "question_number": 18,
+            "stage_aim": 16,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 17,
+            "stage_class": 2,
+            "questions_index": "5,5,5,5,5,5,5,6,6,6,6,6,6,7,7,7,7,7",
+            "stage_time": 35,
+            "question_number": 18,
+            "stage_aim": 16,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 18,
+            "stage_class": 2,
+            "questions_index": "5,5,6,6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7",
+            "stage_time": 40,
+            "question_number": 20,
+            "stage_aim": 18,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 19,
+            "stage_class": 2,
+            "questions_index": "6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7",
+            "stage_time": 40,
+            "question_number": 22,
+            "stage_aim": 20,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 20,
+            "stage_class": 2,
+            "questions_index": "6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7",
+            "stage_time": 40,
+            "question_number": 24,
+            "stage_aim": 22,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 21,
+            "stage_class": 3,
+            "questions_index": "1,1,2,2,3,3,3,4,4,4,4,5,5,5,5,5",
+            "stage_time": 40,
+            "question_number": 16,
+            "stage_aim": 14,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 22,
+            "stage_class": 3,
+            "questions_index": "2,2,3,3,3,3,4,4,4,4,4,5,5,5,5,5",
+            "stage_time": 40,
+            "question_number": 16,
+            "stage_aim": 14,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 23,
+            "stage_class": 3,
+            "questions_index": "3,3,3,3,4,4,4,4,4,5,5,5,5,5,6,6,6,6",
+            "stage_time": 45,
+            "question_number": 18,
+            "stage_aim": 16,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 24,
+            "stage_class": 3,
+            "questions_index": "4,4,4,4,5,5,5,5,6,6,6,6,6,7,7,7,7,7,7,7",
+            "stage_time": 45,
+            "question_number": 20,
+            "stage_aim": 18,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 25,
+            "stage_class": 3,
+            "questions_index": "5,5,5,5,5,5,5,6,6,6,6,6,6,7,7,7,7,7,7,7,7",
+            "stage_time": 45,
+            "question_number": 22,
+            "stage_aim": 20,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 26,
+            "stage_class": 3,
+            "questions_index": "5,5,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7",
+            "stage_time": 60,
+            "question_number": 24,
+            "stage_aim": 22,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 27,
+            "stage_class": 3,
+            "questions_index": "6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7",
+            "stage_time": 60,
+            "question_number": 26,
+            "stage_aim": 22,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 28,
+            "stage_class": 3,
+            "questions_index": "7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7",
+            "stage_time": 60,
+            "question_number": 26,
+            "stage_aim": 24,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 29,
+            "stage_class": 3,
+            "questions_index": "7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7",
+            "stage_time": 60,
+            "question_number": 28,
+            "stage_aim": 24,
+            "stage_color": 5
+        },
+        {
+            "stage_id": 30,
+            "stage_class": 3,
+            "questions_index": "7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7",
+            "stage_time": 60,
+            "question_number": 28,
+            "stage_aim": 24,
+            "stage_color": 5
+        }
+    ]
+}

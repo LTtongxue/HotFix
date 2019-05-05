@@ -1,0 +1,335 @@
+{
+    "map_data": [
+        {
+            "mapnumber": 1,
+            "map_information": {
+                "time": 70,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 2,
+                "units_number": 6,
+				"map_type":1,
+				"differ":2
+            }
+        },
+        {
+            "mapnumber": 2,
+            "map_information": {
+                "time": 70,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 3,
+                "units_number": 10,
+				"map_type":1
+            }
+        },
+		{
+            "mapnumber": 3,
+            "map_information": {
+                "time": 75,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 4,
+                "units_number": 12,
+				"map_type":1
+            }
+        },
+		{
+            "mapnumber": 4,
+            "map_information": {
+                "time": 75,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 5,
+                "units_number": 14,
+				"map_type":1
+            }
+        },
+		{
+            "mapnumber": 5,
+            "map_information": {
+                "time": 75,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 5,
+                "units_number": 16,
+				"map_type":1
+            }
+        },
+		{
+            "mapnumber": 6,
+            "map_information": {
+                "time": 75,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 5,
+                "units_number": 18,
+				"map_type":1
+            }
+        },
+		{
+            "mapnumber": 7,
+            "map_information": {
+                "time": 100,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 4,
+                "units_number": 14,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 8,
+            "map_information": {
+                "time": 100,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 4,
+                "units_number": 14,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 9,
+            "map_information": {
+                "time": 100,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 5,
+                "units_number": 15,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 10,
+            "map_information": {
+                "time": 100,
+                "task": 10,
+                "aim": 8,
+                "units_kind": 5,
+                "units_number": 15,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 11,
+            "map_information": {
+                "time": 100,
+                "task": 11,
+                "aim": 9,
+                "units_kind": 5,
+                "units_number": 16,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 12,
+            "map_information": {
+                "time": 100,
+                "task": 11,
+                "aim": 9,
+                "units_kind": 5,
+                "units_number": 16,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 13,
+            "map_information": {
+                "time": 100,
+                "task": 11,
+                "aim": 9,
+                "units_kind": 5,
+                "units_number": 17,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 14,
+            "map_information": {
+                "time": 100,
+                "task": 11,
+                "aim": 9,
+                "units_kind": 6,
+                "units_number": 17,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 15,
+            "map_information": {
+                "time": 100,
+                "task": 12,
+                "aim": 10,
+                "units_kind": 6,
+                "units_number": 18,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 16,
+            "map_information": {
+                "time": 100,
+                "task": 12,
+                "aim": 10,
+                "units_kind": 6,
+                "units_number": 18,
+				"map_type":2
+            }
+        },
+		{
+            "mapnumber": 17,
+            "map_information": {
+                "time": 100,
+                "task": 12,
+                "aim": 10,
+                "units_kind": 6,
+                "units_number": 18,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 18,
+            "map_information": {
+                "time": 100,
+                "task": 13,
+                "aim": 11,
+                "units_kind": 6,
+                "units_number": 18,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 19,
+            "map_information": {
+                "time": 100,
+                "task": 13,
+                "aim": 11,
+                "units_kind": 6,
+                "units_number": 18,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 20,
+            "map_information": {
+                "time": 100,
+                "task": 13,
+                "aim": 11,
+                "units_kind": 6,
+                "units_number": 18,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 21,
+            "map_information": {
+                "time": 100,
+                "task": 13,
+                "aim": 11,
+                "units_kind": 6,
+                "units_number": 18,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 22,
+            "map_information": {
+                "time": 100,
+                "task": 14,
+                "aim": 12,
+                "units_kind": 6,
+                "units_number": 19,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 23,
+            "map_information": {
+                "time": 100,
+                "task": 14,
+                "aim": 12,
+                "units_kind": 6,
+                "units_number": 19,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 24,
+            "map_information": {
+                "time": 120,
+                "task": 14,
+                "aim": 12,
+                "units_kind": 6,
+                "units_number": 19,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 25,
+            "map_information": {
+                "time": 120,
+                "task": 15,
+                "aim": 13,
+                "units_kind": 6,
+                "units_number": 19,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 26,
+            "map_information": {
+                "time": 120,
+                "task": 15,
+                "aim": 13,
+                "units_kind": 6,
+                "units_number": 19,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 27,
+            "map_information": {
+                "time": 120,
+                "task": 15,
+                "aim": 13,
+                "units_kind": 6,
+                "units_number": 19,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 28,
+            "map_information": {
+                "time": 120,
+                "task": 16,
+                "aim": 14,
+                "units_kind": 6,
+                "units_number": 20,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 29,
+            "map_information": {
+                "time": 120,
+                "task": 16,
+                "aim": 14,
+                "units_kind": 6,
+                "units_number": 20,
+				"map_type":3
+            }
+        },
+		{
+            "mapnumber": 30,
+            "map_information": {
+                "time": 120,
+                "task": 17,
+                "aim": 15,
+                "units_kind": 6,
+                "units_number": 20,
+				"map_type":3
+            }
+        }
+    ]
+}

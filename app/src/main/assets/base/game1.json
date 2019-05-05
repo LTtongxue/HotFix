@@ -1,0 +1,2068 @@
+{
+    "map_data": [
+        {
+            "map_name": "map_1",
+            "goat": 4,
+            "map_1_1": {
+                "size": "3,3",
+                "mission": {
+                    "blank_green": 2
+                },
+                "units": "2,0,0,0"
+            },
+            "map_1_2": {
+                "size": "3,3",
+                "mission": {
+                    "blank_green": 3
+                },
+                "units": "3,0,0,0"
+            },
+            "map_1_3": {
+                "size": "3,4",
+                "mission": {
+                    "blank_green": 3
+                },
+                "units": "3,0,0,0"
+            },
+            "map_1_4": {
+                "size": "3,4",
+                "mission": {
+                    "blank_green": 4
+                },
+                "units": "4,0,0,0"
+            },
+            "map_1_5": {
+                "size": "3,4",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            },
+            "map_1_6": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 4
+                },
+                "units": "4,0,0,0"
+            },
+            "map_1_7": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            }
+        },
+        {
+            "map_name": "map_2",
+            "goat": 4,
+            "map_2_1": {
+                "size": "3,3",
+                "mission": {
+                    "blank_green": 3
+                },
+                "units": "3,0,0,0"
+            },
+            "map_2_2": {
+                "size": "3,4",
+                "mission": {
+                    "blank_green": 3
+                },
+                "units": "3,0,0,0"
+            },
+            "map_2_3": {
+                "size": "3,4",
+                "mission": {
+                    "blank_green": 4
+                },
+                "units": "4,0,0,0"
+            },
+            "map_2_4": {
+                "size": "3,4",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            },
+            "map_2_5": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 4
+                },
+                "units": "4,0,0,0"
+            },
+            "map_2_6": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            },
+            "map_2_7": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            }
+        },
+        {
+            "map_name": "map_3",
+            "goat": 4,
+            "map_3_1": {
+                "size": "3,4",
+                "mission": {
+                    "blank_green": 4
+                },
+                "units": "4,0,0,0"
+            },
+            "map_3_2": {
+                "size": "3,4",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            },
+            "map_3_3": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 4
+                },
+                "units": "4,0,0,0"
+            },
+            "map_3_4": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            },
+            "map_3_5": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            },
+            "map_3_6": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            },
+            "map_3_7": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            }
+        },
+        {
+            "map_name": "map_4",
+            "goat": 4,
+            "map_4_1": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 4
+                },
+                "units": "4,0,0,0"
+            },
+            "map_4_2": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            },
+            "map_4_3": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            },
+            "map_4_4": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            },
+            "map_4_5": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            },
+            "map_4_6": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7
+                },
+                "units": "7,0,0,0"
+            },
+            "map_4_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            }
+        },
+        {
+            "map_name": "map_5",
+            "goat": 4,
+            "map_5_1": {
+                "size": "4,4",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            },
+            "map_5_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5
+                },
+                "units": "5,0,0,0"
+            },
+            "map_5_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            },
+            "map_5_4": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7
+                },
+                "units": "7,0,0,0"
+            },
+            "map_5_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            },
+            "map_5_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7
+                },
+                "units": "7,0,0,0"
+            },
+            "map_5_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8
+                },
+                "units": "8,0,0,0"
+            }
+        },
+        {
+            "map_name": "map_6",
+            "goat": 4,
+            "map_6_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            },
+            "map_6_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7
+                },
+                "units": "7,0,0,0"
+            },
+            "map_6_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            },
+            "map_6_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7
+                },
+                "units": "7,0,0,0"
+            },
+            "map_6_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8
+                },
+                "units": "8,0,0,0"
+            },
+            "map_6_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7
+                },
+                "units": "7,0,0,0"
+            },
+            "map_6_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8
+                },
+                "units": "8,0,0,0"
+            }
+        },
+        {
+            "map_name": "map_7",
+            "goat": 4,
+            "map_7_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7
+                },
+                "units": "7,0,0,0"
+            },
+            "map_7_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6
+                },
+                "units": "6,0,0,0"
+            },
+            "map_7_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7
+                },
+                "units": "7,0,0,0"
+            },
+            "map_7_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8
+                },
+                "units": "8,0,0,0"
+            },
+            "map_7_5": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7
+                },
+                "units": "7,0,0,0"
+            },
+            "map_7_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8
+                },
+                "units": "8,0,0,0"
+            },
+            "map_7_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 9
+                },
+                "units": "9,0,0,0"
+            }
+        },
+        {
+            "map_name": "map_8",
+            "goat": 4,
+            "map_8_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "5,0,2,0"
+            },
+            "map_8_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "5,0,3,0"
+            },
+            "map_8_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "6,0,2,0"
+            },
+            "map_8_4": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,0,3,0"
+            },
+            "map_8_5": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "7,0,2,0"
+            },
+            "map_8_6": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            },
+            "map_8_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "6,0,2,0"
+            }
+        },
+        {
+            "map_name": "map_9",
+            "goat": 4,
+            "map_9_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "5,0,3,0"
+            },
+            "map_9_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "6,0,2,0"
+            },
+            "map_9_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,0,3,0"
+            },
+            "map_9_4": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "7,0,2,0"
+            },
+            "map_9_5": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            },
+            "map_9_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "6,0,2,0"
+            },
+            "map_9_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,0,3,0"
+            }
+        },
+        {
+            "map_name": "map_10",
+            "goat": 4,
+            "map_10_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,0,3,0"
+            },
+            "map_10_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "7,0,2,0"
+            },
+            "map_10_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            },
+            "map_10_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "6,0,2,0"
+            },
+            "map_10_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,0,3,0"
+            },
+            "map_10_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "7,0,2,0"
+            },
+            "map_10_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            }
+        },
+        {
+            "map_name": "map_11",
+            "goat": 4,
+            "map_11_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            },
+            "map_11_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "6,0,2,0"
+            },
+            "map_11_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,0,3,0"
+            },
+            "map_11_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "7,0,2,0"
+            },
+            "map_11_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            },
+            "map_11_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "8,0,2,0"
+            },
+            "map_11_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            }
+        },
+        {
+            "map_name": "map_12",
+            "goat": 4,
+            "map_12_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,0,3,0"
+            },
+            "map_12_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "7,0,2,0"
+            },
+            "map_12_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            },
+            "map_12_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "8,0,2,0"
+            },
+            "map_12_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,0,3,0"
+            },
+            "map_12_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "7,0,2,0"
+            },
+            "map_12_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            }
+        },
+        {
+            "map_name": "map_13",
+            "goat": 4,
+            "map_13_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            },
+            "map_13_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "8,0,2,0"
+            },
+            "map_13_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,0,3,0"
+            },
+            "map_13_4": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "7,0,2,0"
+            },
+            "map_13_5": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            },
+            "map_13_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "8,0,2,0"
+            },
+            "map_13_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,0,3,0"
+            }
+        },
+        {
+            "map_name": "map_14",
+            "goat": 4,
+            "map_14_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "8,0,2,0"
+            },
+            "map_14_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,0,3,0"
+            },
+            "map_14_3": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "7,0,2,0"
+            },
+            "map_14_4": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,0,3,0"
+            },
+            "map_14_5": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "8,0,2,0"
+            },
+            "map_14_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,0,3,0"
+            },
+            "map_14_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 9,
+                    "unit_round": 2,
+                    "unit_green_round": 2
+                },
+                "units": "9,0,2,0"
+            }
+        },
+        {
+            "map_name": "map_15",
+            "goat": 4,
+            "map_15_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "5,1,3,0"
+            },
+            "map_15_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "5,2,4,0"
+            },
+            "map_15_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,1,3,0"
+            },
+            "map_15_4": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "6,2,4,0"
+            },
+            "map_15_5": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,1,3,0"
+            },
+            "map_15_6": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            },
+            "map_15_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,1,3,0"
+            }
+        },
+        {
+            "map_name": "map_16",
+            "goat": 4,
+            "map_16_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "5,2,4,0"
+            },
+            "map_16_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,1,3,0"
+            },
+            "map_16_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "6,2,4,0"
+            },
+            "map_16_4": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,1,3,0"
+            },
+            "map_16_5": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            },
+            "map_16_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,1,3,0"
+            },
+            "map_16_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "6,2,4,0"
+            }
+        },
+        {
+            "map_name": "map_17",
+            "goat": 4,
+            "map_17_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "6,2,4,0"
+            },
+            "map_17_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,1,3,0"
+            },
+            "map_17_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            },
+            "map_17_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,1,3,0"
+            },
+            "map_17_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "6,2,4,0"
+            },
+            "map_17_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,1,3,0"
+            },
+            "map_17_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            }
+        },
+        {
+            "map_name": "map_18",
+            "goat": 4,
+            "map_18_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            },
+            "map_18_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "6,1,3,0"
+            },
+            "map_18_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "6,2,4,0"
+            },
+            "map_18_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,1,3,0"
+            },
+            "map_18_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            },
+            "map_18_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,1,3,0"
+            },
+            "map_18_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "8,2,4,0"
+            }
+        },
+        {
+            "map_name": "map_19",
+            "goat": 4,
+            "map_19_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "6,2,4,0"
+            },
+            "map_19_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,1,3,0"
+            },
+            "map_19_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            },
+            "map_19_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,1,3,0"
+            },
+            "map_19_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "8,2,4,0"
+            },
+            "map_19_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,1,3,0"
+            },
+            "map_19_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            }
+        },
+        {
+            "map_name": "map_20",
+            "goat": 4,
+            "map_20_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            },
+            "map_20_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,1,3,0"
+            },
+            "map_20_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "8,2,4,0"
+            },
+            "map_20_4": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,1,3,0"
+            },
+            "map_20_5": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            },
+            "map_20_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,1,3,0"
+            },
+            "map_20_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "8,2,4,0"
+            }
+        },
+        {
+            "map_name": "map_21",
+            "goat": 4,
+            "map_21_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,1,3,0"
+            },
+            "map_21_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "8,2,4,0"
+            },
+            "map_21_3": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "7,1,3,0"
+            },
+            "map_21_4": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "7,2,4,0"
+            },
+            "map_21_5": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "8,1,3,0"
+            },
+            "map_21_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "blank_blue": 2,
+                    "unit_round": 4,
+                    "unit_green_round": 4
+                },
+                "units": "8,2,4,0"
+            },
+            "map_21_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 9,
+                    "unit_round": 3,
+                    "unit_green_round": 3
+                },
+                "units": "9,1,3,0"
+            }
+        },
+        {
+            "map_name": "map_22",
+            "goat": 4,
+            "map_22_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "5,0,2,3"
+            },
+            "map_22_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "5,0,3,2"
+            },
+            "map_22_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "6,0,2,3"
+            },
+            "map_22_4": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "6,0,3,2"
+            },
+            "map_22_5": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_22_6": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_22_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "6,0,2,3"
+            }
+        },
+        {
+            "map_name": "map_23",
+            "goat": 4,
+            "map_23_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 5,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "5,0,3,2"
+            },
+            "map_23_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "6,0,2,3"
+            },
+            "map_23_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "6,0,3,2"
+            },
+            "map_23_4": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_23_5": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_23_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "6,0,2,3"
+            },
+            "map_23_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "6,0,3,2"
+            }
+        },
+        {
+            "map_name": "map_24",
+            "goat": 4,
+            "map_24_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "6,0,3,2"
+            },
+            "map_24_2": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_24_3": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_24_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "6,0,2,3"
+            },
+            "map_24_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "6,0,3,2"
+            },
+            "map_24_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_24_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            }
+        },
+        {
+            "map_name": "map_25",
+            "goat": 4,
+            "map_25_1": {
+                "size": "4,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_25_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "6,0,2,3"
+            },
+            "map_25_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "6,0,3,2"
+            },
+            "map_25_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_25_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_25_6": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "8,0,2,3"
+            },
+            "map_25_7": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "8,0,3,2"
+            }
+        },
+        {
+            "map_name": "map_26",
+            "goat": 4,
+            "map_26_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 6,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "6,0,3,2"
+            },
+            "map_26_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_26_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_26_4": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "8,0,2,3"
+            },
+            "map_26_5": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "8,0,3,2"
+            },
+            "map_26_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_26_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            }
+        },
+        {
+            "map_name": "map_27",
+            "goat": 4,
+            "map_27_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_27_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "8,0,2,3"
+            },
+            "map_27_3": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "8,0,3,2"
+            },
+            "map_27_4": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_27_5": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_27_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "8,0,2,3"
+            },
+            "map_27_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "8,0,3,2"
+            }
+        },
+        {
+            "map_name": "map_28",
+            "goat": 4,
+            "map_28_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "8,0,2,3"
+            },
+            "map_28_2": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "8,0,3,2"
+            },
+            "map_28_3": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_28_4": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_28_5": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "8,0,2,3"
+            },
+            "map_28_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "8,0,3,2"
+            },
+            "map_28_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 9,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "9,0,2,3"
+            }
+        },
+        {
+            "map_name": "map_29",
+            "goat": 4,
+            "map_29_1": {
+                "size": "5,5",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "8,0,3,2"
+            },
+            "map_29_2": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_29_3": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_29_4": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "8,0,2,3"
+            },
+            "map_29_5": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "8,0,3,2"
+            },
+            "map_29_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 9,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "9,0,2,3"
+            },
+            "map_29_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 9,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "9,0,3,2"
+            }
+        },
+        {
+            "map_name": "map_30",
+            "goat": 4,
+            "map_30_1": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "7,0,2,3"
+            },
+            "map_30_2": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 7,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "7,0,3,2"
+            },
+            "map_30_3": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "8,0,2,3"
+            },
+            "map_30_4": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 8,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "8,0,3,2"
+            },
+            "map_30_5": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 9,
+                    "unit_round": 2,
+                    "unit_green_round": 2,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "9,0,2,3"
+            },
+            "map_30_6": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 9,
+                    "unit_round": 3,
+                    "unit_green_round": 3,
+                    "unit_triangle": 2,
+                    "unit_green_triangle": 2
+                },
+                "units": "9,0,3,2"
+            },
+            "map_30_7": {
+                "size": "5,6",
+                "mission": {
+                    "blank_green": 9,
+                    "unit_round": 4,
+                    "unit_green_round": 4,
+                    "unit_triangle": 3,
+                    "unit_green_triangle": 3
+                },
+                "units": "9,0,4,3"
+            }
+        }
+    ]
+}

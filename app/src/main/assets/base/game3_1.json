@@ -1,0 +1,13 @@
+{
+    "unit": [
+        {
+            "color_black": "0,0,0,黑色,black.png",
+            "color_red": "226,0,0,红色,red.png",
+            "color_yellow": "226,229,49,黄色,yellow.png",
+            "color_green": "53,182,35,绿色,green.png",
+            "color_blue": "53,56,196,蓝色,blue.png",
+            "color_purple": "133,56,196,紫色,purple.png",
+            "color_brown": "133,81,56,棕色,brown.png"
+        }
+    ]
+}

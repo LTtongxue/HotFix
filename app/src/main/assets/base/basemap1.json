@@ -1,0 +1,74 @@
+{
+    "bg": [
+        "bg1.jpg",
+        "bg2.jpg",
+        "bg3.jpg",
+        "bg4.jpg"
+    ],
+    "gate": [
+        {
+            "gate": 1,
+            "x": 100,
+            "y": 200,
+            "btn1": "mud.png",
+            "btn2": "mud.png",
+            "desc": "第1关"
+        },
+        {
+            "gate": 2,
+            "x": 300,
+            "y": 400,
+            "btn1": "mud.png",
+            "btn2": "mud.png",
+            "desc": "第2关"
+        },
+        {
+            "gate": 3,
+            "x": 500,
+            "y": 550,
+            "btn1": "mud.png",
+            "btn2": "mud.png",
+            "desc": "第3关"
+        },
+        {
+            "gate": 4,
+            "x": 230,
+            "y": 750,
+            "btn1": "mud.png",
+            "btn2": "mud.png",
+            "desc": "第4关"
+        },
+        {
+            "gate": 5,
+            "x": 180,
+            "y": 2860,
+            "btn1": "mud.png",
+            "btn2": "mud.png",
+            "desc": "第5关"
+        },
+        {
+            "gate": 6,
+            "x": 250,
+            "y": 1050,
+            "btn1": "mud.png",
+            "btn2": "mud.png",
+            "desc": "第6关"
+        },
+        {
+            "gate": 7,
+            "x": 450,
+            "y": 1210,
+            "btn1": "mud.png",
+            "btn2": "mud.png",
+            "desc": "第7关"
+        },
+        {
+            "gate": 20,
+            "x": 200,
+            "y": 1450,
+            "btn1": "mud.png",
+            "btn2": "mud.png",
+            "desc": "第20关"
+        }
+    ]
+}

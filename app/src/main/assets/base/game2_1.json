@@ -1,0 +1,367 @@
+{
+    "map_data": [
+        {
+            "mapnumber": 1,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 1,
+                "first_describe": 0,
+                "second_units": 2,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 2,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 2,
+                "first_describe": 0,
+                "second_units": 2,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 3,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 2,
+                "first_describe": 0,
+                "second_units": 3,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 4,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 3,
+                "first_describe": 0,
+                "second_units": 1,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 5,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 3,
+                "first_describe": 0,
+                "second_units": 2,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 6,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 3,
+                "first_describe": 0,
+                "second_units": 3,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 7,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 3,
+                "first_describe": 0,
+                "second_units": 4,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 8,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 4,
+                "first_describe": 0,
+                "second_units": 1,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 9,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 4,
+                "first_describe": 0,
+                "second_units": 2,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 10,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 4,
+                "first_describe": 0,
+                "second_units": 3,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 11,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 4,
+                "first_describe": 0,
+                "second_units": 4,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 12,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 0,
+                "second_units": 1,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 13,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 0,
+                "second_units": 2,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 14,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 0,
+                "second_units": 3,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 15,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 0,
+                "second_units": 4,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 16,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 0,
+                "second_units": 5,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 17,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 6,
+                "first_describe": 0,
+                "second_units": 2,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 18,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 6,
+                "first_describe": 0,
+                "second_units": 3,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 19,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 6,
+                "first_describe": 0,
+                "second_units": 4,
+                "second_describe": 0
+            }
+        },
+        {
+            "mapnumber": 20,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 3,
+                "first_describe": 1,
+                "second_units": 3,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 21,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 3,
+                "first_describe": 1,
+                "second_units": 4,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 22,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 4,
+                "first_describe": 1,
+                "second_units": 1,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 23,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 4,
+                "first_describe": 1,
+                "second_units": 2,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 24,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 4,
+                "first_describe": 1,
+                "second_units": 3,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 25,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 4,
+                "first_describe": 1,
+                "second_units": 4,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 26,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 1,
+                "second_units": 1,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 27,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 1,
+                "second_units": 2,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 28,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 1,
+                "second_units": 3,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 29,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 1,
+                "second_units": 4,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 30,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 5,
+                "first_describe": 1,
+                "second_units": 5,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 31,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 6,
+                "first_describe": 1,
+                "second_units": 2,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 32,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 6,
+                "first_describe": 1,
+                "second_units": 3,
+                "second_describe": 1
+            }
+        },
+        {
+            "mapnumber": 33,
+            "map_information": {
+                "speed": "30,35,40,45,50,55",
+                "spin": "30,40,50,60,70,80",
+                "first_units": 6,
+                "first_describe": 1,
+                "second_units": 4,
+                "second_describe": 1
+            }
+        }
+    ]
+}

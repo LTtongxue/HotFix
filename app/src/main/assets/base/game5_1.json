@@ -1,0 +1,328 @@
+{
+    "map_data": [
+        {
+            "mapnumber": 1,
+            "map_information": {
+                "line1": "l2,l1,p,p",
+                "line2": "p,a3,c4,p",
+                "line3": "l2,c1,c2,c3",
+                "line4": "null,null,l2,a4"
+            }
+        },
+        {
+            "mapnumber": 2,
+            "map_information": {
+                "line1": "l2,p,a3,p",
+                "line2": "p,c1,l2,c3",
+                "line3": "l1,null,p,c4",
+                "line4": "null,a1,c2,p"
+            }
+        },
+        {
+            "mapnumber": 3,
+            "map_information": {
+                "line1": "p,p,p,l2",
+                "line2": "a3,c3,a3,p",
+                "line3": "l1,null,null,p",
+                "line4": "c1,c1,c4,p"
+            }
+        },
+        {
+            "mapnumber": 4,
+            "map_information": {
+                "line1": "p,c2,null,a4",
+                "line2": "l2,l2,p,null",
+                "line3": "l1,c4,l1,p",
+                "line4": "p,a1,p,c2"
+            }
+        },
+        {
+            "mapnumber": 5,
+            "map_information": {
+                "line1": "a2,null,c4,c4",
+                "line2": "null,p,l2,l1",
+                "line3": "p,l1,c3,p",
+                "line4": "p,l2,c1,a4"
+            }
+        },
+        {
+            "mapnumber": 6,
+            "map_information": {
+                "line1": "p,p,p,l2",
+                "line2": "c2,l1,a4,p",
+                "line3": "null,l2,a2,c3",
+                "line4": "null,p,c1,c4"
+            }
+        },
+        {
+            "mapnumber": 7,
+            "map_information": {
+                "line1": "p,p,a3,null",
+                "line2": "c2,l1,p,p",
+                "line3": "c3,null,c4,l1",
+                "line4": "a2,c4,p,p"
+            }
+        },
+        {
+            "mapnumber": 8,
+            "map_information": {
+                "line1": "l1,l2,null,p",
+                "line2": "a2,p,c3,c4",
+                "line3": "c1,l2,c2,null",
+                "line4": "p,p,a1,p"
+            }
+        },
+        {
+            "mapnumber": 9,
+            "map_information": {
+                "line1": "c1,null,l2,c1",
+                "line2": "p,p,c2,a4",
+                "line3": "l2,c4,null,l1",
+                "line4": "a2,c3,null,p"
+            }
+        },
+        {
+            "mapnumber": 10,
+            "map_information": {
+                "line1": "p,a3,l2,null",
+                "line2": "l1,p,c3,p",
+                "line3": "c1,null,a2,null",
+                "line4": "p,p,null,c4"
+            }
+        },
+        {
+            "mapnumber": 11,
+            "map_information": {
+                "line1": "p,l2,c4,a3",
+                "line2": "c2,p,c1,null",
+                "line3": "c4,c2,p,null",
+                "line4": "a1,p,p,p"
+            }
+        },
+        {
+            "mapnumber": 12,
+            "map_information": {
+                "line1": "p,a3,p,p",
+                "line2": "c1,c3,null,p",
+                "line3": "null,a3,l2,c4",
+                "line4": "c2,c1,p,l1"
+            }
+        },
+        {
+            "mapnumber": 13,
+            "map_information": {
+                "line1": "a3,p,c2,l1",
+                "line2": "l1,null,c3,p",
+                "line3": "l2,p,c4,p",
+                "line4": "c1,a2,p,null"
+            }
+        },
+        {
+            "mapnumber": 14,
+            "map_information": {
+                "line1": "l2,p,null,a3",
+                "line2": "c2,p,p,c2",
+                "line3": "l2,null,l1,c4",
+                "line4": "a1,p,c4,p"
+            }
+        },
+        {
+            "mapnumber": 15,
+            "map_information": {
+                "line1": "p,a3,c3,p",
+                "line2": "l1,c2,l1,l2",
+                "line3": "c3,null,c4,a4",
+                "line4": "p,null,c1,p"
+            }
+        },
+        {
+            "mapnumber": 16,
+            "map_information": {
+                "line1": "l2,c2,p,p",
+                "line2": "c1,p,c1,a4",
+                "line3": "p,l1,c4,p",
+                "line4": "a2,l2,null,null"
+            }
+        },
+        {
+            "mapnumber": 17,
+            "map_information": {
+                "line1": "p,l2,p,a3",
+                "line2": "c2,null,c4,p",
+                "line3": "null,l2,c2,c4",
+                "line4": "c1,a4,p,p"
+            }
+        },
+        {
+            "mapnumber": 18,
+            "map_information": {
+                "line1": "a3,p,p,l2",
+                "line2": "null,c1,c3,p",
+                "line3": "c3,c1,null,p",
+                "line4": "c1,p,p,a4"
+            }
+        },
+        {
+            "mapnumber": 19,
+            "map_information": {
+                "line1": "a2,c2,l2,c3",
+                "line2": "c1,p,c4,l1",
+                "line3": "p,p,a4,p",
+                "line4": "null,p,null,c2"
+            }
+        },
+        {
+            "mapnumber": 20,
+            "map_information": {
+                "line1": "p,l2,c1,p",
+                "line2": "a2,c3,p,p",
+                "line3": "null,c2,c1,null",
+                "line4": "a1,l2,p,c4"
+            }
+        },
+        {
+            "mapnumber": 21,
+            "map_information": {
+                "line1": "null,p,null,p",
+                "line2": "a2,c3,c2,c4",
+                "line3": "p,c1,l1,a4",
+                "line4": "p,l1,p,c3"
+            }
+        },
+        {
+            "mapnumber": 22,
+            "map_information": {
+                "line1": "p,p,null,a3",
+                "line2": "p,l2,p,c4",
+                "line3": "p,c2,c1,c3",
+                "line4": "null,c1,l2,a4"
+            }
+        },
+        {
+            "mapnumber": 23,
+            "map_information": {
+                "line1": "null,p,null,p",
+                "line2": "a2,c3,c2,c4",
+                "line3": "p,c1,l1,a4",
+                "line4": "p,l1,p,c3"
+            }
+        },
+        {
+            "mapnumber": 24,
+            "map_information": {
+                "line1": "p,l1,c2,c3",
+                "line2": "p,a3,p,null",
+                "line3": "c1,p,l2,l2",
+                "line4": "p,a2,c4,null"
+            }
+        },
+        {
+            "mapnumber": 25,
+            "map_information": {
+                "line1": "p,p,c1,l2",
+                "line2": "p,c1,a3,p",
+                "line3": "null,c3,c4,l1",
+                "line4": "a1,c2,null,p"
+            }
+        },
+        {
+            "mapnumber": 26,
+            "map_information": {
+                "line1": "p,l2,p,p",
+                "line2": "a2,c3,c3,p",
+                "line3": "c1,l1,null,c4",
+                "line4": "p,a2,p,null"
+            }
+        },
+        {
+            "mapnumber": 27,
+            "map_information": {
+                "line1": "p,a3,p,c4",
+                "line2": "c4,c1,l2,p",
+                "line3": "null,l2,c2,a4",
+                "line4": "p,null,p,b"
+            }
+        },
+        {
+            "mapnumber": 28,
+            "map_information": {
+                "line1": "c1,p,l2,a4",
+                "line2": "c2,null,null,c3",
+                "line3": "p,a2,l2,p",
+                "line4": "b,p,c4,p"
+            }
+        },
+        {
+            "mapnumber": 29,
+            "map_information": {
+                "line1": "c2,c1,l1,p",
+                "line2": "c4,null,c3,a4",
+                "line3": "p,l2,c4,a4",
+                "line4": "p,c1,null,b"
+            }
+        },
+        {
+            "mapnumber": 30,
+            "map_information": {
+                "line1": "b,p,l2,p",
+                "line2": "p,c3,null,c2",
+                "line3": "l1,c2,c4,null",
+                "line4": "p,a1,a1,p"
+            }
+        },
+        {
+            "mapnumber": 31,
+            "map_information": {
+                "line1": "b,p,a3,p",
+                "line2": "a3,p,l1,c4",
+                "line3": "null,l1,p,null",
+                "line4": "c1,c2,l2,l1"
+            }
+        },
+        {
+            "mapnumber": 32,
+            "map_information": {
+                "line1": "a2,p,c2,b",
+                "line2": "a3,c3,null,p",
+                "line3": "l1,null,c4,p",
+                "line4": "c1,p,p,l2"
+            }
+        },
+        {
+            "mapnumber": 33,
+            "map_information": {
+                "line1": "a3,p,c3,b",
+                "line2": "l1,null,p,c2",
+                "line3": "null,l2,l2,p",
+                "line4": "l1,c1,c4,a4"
+            }
+        },
+        {
+            "mapnumber": 34,
+            "map_information": {
+                "line1": "b,p,l2,b",
+                "line2": "a2,p,c3,a3",
+                "line3": "p,null,p,c4",
+                "line4": "null,c1,l1,c1"
+            }
+        },
+        {
+            "mapnumber": 35,
+            "map_information": {
+                "line1": "b,p,p,a4",
+                "line2": "a2,l1,null,c4",
+                "line3": "c1,c3,c2,p",
+                "line4": "l2,p,p,null"
+            }
+        },
+        {
+            "mapnumber": 36,
+            "map_information": {
+                "line1": "b,p,a3,p",
+                "line2": "a3,c4,null,l1",
+                "line3": "p,c1,c2,l1",
+                "line4": "null,c4,p,p"
+            }
+        }
+    ]
+}

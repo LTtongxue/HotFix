@@ -1,10 +1,16 @@
 package com.hengda.hotfix;
 
+import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import android.util.EventLog;
+import android.view.View;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
+
+import org.cocos2dx.cpp.AppActivity;
+import org.greenrobot.eventbus.EventBus;
 
 import java.io.IOException;
 
@@ -17,7 +23,7 @@ import retrofit2.Retrofit;
 import retrofit2.http.GET;
 import retrofit2.http.Url;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
     private static final String TAG = "MainActivity";
 
     @Override
@@ -51,6 +57,11 @@ public class MainActivity extends AppCompatActivity {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public void jumpGame(View view) {
+        Intent intent = new Intent(this, AppActivity.class);
+        startActivity(intent);
     }
 
     public interface DataService {
@@ -87,5 +98,11 @@ public class MainActivity extends AppCompatActivity {
     private void testGlide() {
         String url = "http://img1.dzwww.com:8080/tupian_pl/20150813/16/7858995348613407436.jpg";
         Glide.with(this).load(url).into(new ImageView(this));
+    }
+
+    private void testEventBus() {
+        EventBus.getDefault().register(this);
+        EventBus.getDefault().unregister(this);
+        EventBus.getDefault().post("");
     }
 }

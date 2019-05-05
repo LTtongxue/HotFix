@@ -1,0 +1,244 @@
+{
+    "map_data": [
+        {
+            "mapnumber": 1,
+            "maptype": 1,
+            "time": 35,
+            "task": 14,
+            "target": 10,
+            "colorkind": 2
+        },
+        {
+            "mapnumber": 2,
+            "maptype": 1,
+            "time": 35,
+            "task": 14,
+            "target": 12,
+            "colorkind": 3
+        },
+        {
+            "mapnumber": 3,
+            "maptype": 1,
+            "time": 37,
+            "task": 16,
+            "target": 14,
+            "colorkind": 4
+        },
+        {
+            "mapnumber": 4,
+            "maptype": 2,
+            "time": 39,
+            "task": 20,
+            "target": 17,
+            "colorkind": 3
+        },
+        {
+            "mapnumber": 5,
+            "maptype": 2,
+            "time": 40,
+            "task": 22,
+            "target": 19,
+            "colorkind": 3
+        },
+        {
+            "mapnumber": 6,
+            "maptype": 2,
+            "time": 45,
+            "task": 24,
+            "target": 21,
+            "colorkind": 3
+        },
+        {
+            "mapnumber": 7,
+            "maptype": 2,
+            "time": 50,
+            "task": 26,
+            "target": 23,
+            "colorkind": 4
+        },
+        {
+            "mapnumber": 8,
+            "maptype": 2,
+            "time": 55,
+            "task": 28,
+            "target": 25,
+            "colorkind": 4
+        },
+        {
+            "mapnumber": 9,
+            "maptype": 2,
+            "time": 90,
+            "task": 30,
+            "target": 27,
+            "colorkind": 4
+        },
+        {
+            "mapnumber": 10,
+            "maptype": 2,
+            "time": 60,
+            "task": 33,
+            "target": 29,
+            "colorkind": 5
+        },
+        {
+            "mapnumber": 11,
+            "maptype": 3,
+            "time": 65,
+            "task": 36,
+            "target": 31,
+            "colorkind": 3
+        },
+        {
+            "mapnumber": 12,
+            "maptype": 3,
+            "time": 65,
+            "task": 38,
+            "target": 33,
+            "colorkind": 4
+        },
+        {
+            "mapnumber": 13,
+            "maptype": 3,
+            "time": 70,
+            "task": 41,
+            "target": 36,
+            "colorkind": 4
+        },
+        {
+            "mapnumber": 14,
+            "maptype": 3,
+            "time": 70,
+            "task": 45,
+            "target": 39,
+            "colorkind": 4
+        },
+        {
+            "mapnumber": 15,
+            "maptype": 3,
+            "time": 70,
+            "task": 48,
+            "target": 42,
+            "colorkind": 5
+        },
+        {
+            "mapnumber": 16,
+            "maptype": 3,
+            "time": 70,
+            "task": 52,
+            "target": 45,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 17,
+            "maptype": 3,
+            "time": 70,
+            "task": 55,
+            "target": 48,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 18,
+            "maptype": 3,
+            "time": 70,
+            "task": 55,
+            "target": 48,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 19,
+            "maptype": 3,
+            "time": 70,
+            "task": 55,
+            "target": 49,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 20,
+            "maptype": 3,
+            "time": 70,
+            "task": 56,
+            "target": 49,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 21,
+            "maptype": 3,
+            "time": 70,
+            "task": 56,
+            "target": 49,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 22,
+            "maptype": 3,
+            "time": 70,
+            "task": 56,
+            "target": 49,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 23,
+            "maptype": 3,
+            "time": 70,
+            "task": 56,
+            "target": 52,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 24,
+            "maptype": 3,
+            "time": 70,
+            "task": 60,
+            "target": 52,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 25,
+            "maptype": 3,
+            "time": 70,
+            "task": 60,
+            "target": 52,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 26,
+            "maptype": 3,
+            "time": 70,
+            "task": 63,
+            "target": 55,
+            "colorkind": 2
+        },
+        {
+            "mapnumber": 27,
+            "maptype": 3,
+            "time": 70,
+            "task": 69,
+            "target": 60,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 28,
+            "maptype": 3,
+            "time": 70,
+            "task": 92,
+            "target": 80,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 29,
+            "maptype": 3,
+            "time": 70,
+            "task": 92,
+            "target": 80,
+            "colorkind": 6
+        },
+        {
+            "mapnumber": 30,
+            "maptype": 3,
+            "time": 70,
+            "task": 92,
+            "target": 80,
+            "colorkind": 6
+        }
+    ]
+}
